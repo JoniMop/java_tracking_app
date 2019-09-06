@@ -1,0 +1,1 @@
+com.microsoft.sqlserver.jdbc.SQLServerDriver,jdbc:sqlserver://DESKTOP-INJ1MQP;DatabaseName=bitacora;user=joni;password=1607
